@@ -1,1 +1,1 @@
-# CETEC_analisis_informaci-n
+# CETEC_analisis_información
